@@ -1,5 +1,7 @@
 # Spam Detection Model
 
+Contributor: Chaitanya Dhanorkar (200001021)
+
 ## 📌 Overview:
 
 This project focuses on Natural Language Processing (NLP) using SMS data to classify messages as either spam or ham (non-spam). It employs various machine learning algorithms, including multinomial-naive-bayes, logistic regression, support vector machines, and decision trees. Additionally, the project utilizes data preprocessing techniques such as PorterStemmer, CountVectorizer, TFIDF Vectorizer, and WordnetLemmatizer. The implementation includes Long Short-Term Memory (LSTM) and Word Embeddings, achieving an impressive accuracy rate of 97.84%.
@@ -20,4 +22,4 @@ This project focuses on Natural Language Processing (NLP) using SMS data to clas
 * More information about this dataset is available [here](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/).
 
 ## 📧 Contact:
-For any suggestions or assistance with the model's code, please contact me at jawwadumar99@gmail.com.
+For any suggestions or assistance with the model's code, please contact me at chaitanyadhanorkar1@gmail.com.
